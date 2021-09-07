@@ -2,7 +2,7 @@
 - 👀 I’m interested in programação
 - 🌱 I’m currently learning html e css
 - 💞️ I’m looking to collaborate on ric
-- 📫 How to reach me ...
+- 📫 How to reach me spiziehacker@protonmail.com
 
 <!---
 Spizie1/Spizie1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
